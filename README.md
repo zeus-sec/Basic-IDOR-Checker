@@ -14,3 +14,4 @@
     -IDORFROM (qui correspond au nombre de départ)
     -IDORto (qui correspond au nombre de fin)
     -BANWORD (qui correspond a un mot qu'il y a sur une page qui ne marche pas correctement et qui n'est pas sur la page qui elle marche)
+Personellement je l'ai utilisé pour un Ctf.
